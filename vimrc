@@ -6,6 +6,7 @@ set shiftwidth=4
 let _curfile = expand("%:t")
 if _curfile =~ "Makefile" || _curfile =~ "makefile" || _curfile =~ ".*\.mk"
   set noexpandtab
+endif
 
 syntax on
 filetype plugin indent on
