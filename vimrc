@@ -11,8 +11,6 @@ endif
 syntax on
 filetype plugin indent on
 
-set number
-
 
 """"""""""""""""""""""""""""""
 " => Status line
