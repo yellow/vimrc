@@ -34,7 +34,7 @@ set hlsearch
 set t_Co=256
 
 set encoding=utf8
-
+runtime bundle/vim-pathogen/autoload/pathogen.vim
 execute pathogen#infect()
 colorscheme gruvbox
 set background=dark
