@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/var/autofs/rutgers/clam/u3/students/amk389/c_assignments'
+let g:netrw_dirhist_2='/var/autofs/rutgers/clam/u3/students/amk389/scripts'
+let g:netrw_dirhist_3='/var/autofs/rutgers/clam/u3/students/amk389/secure_coding/assignments/assignment_q'
