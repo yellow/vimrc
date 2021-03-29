@@ -4,8 +4,8 @@ if _curfile =~ "Makefile" || _curfile =~ "makefile" || _curfile =~ ".*\.mk"
   set noexpandtab
 else
   set expandtab
-  set tabstop=2
-  set shiftwidth=2
+  set tabstop=4
+  set shiftwidth=4
 endif
 
 syntax on
